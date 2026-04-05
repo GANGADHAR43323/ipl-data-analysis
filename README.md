@@ -23,3 +23,7 @@ Analyze IPL match data to understand team performance and match outcomes.
 
 ## Conclusion
 This project helps identify key factors affecting IPL match results.
+## Team Performance
+
+![Top Teams](top_teams.png)
+This chart shows the top IPL teams based on total wins.
