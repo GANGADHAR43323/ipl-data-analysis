@@ -12,14 +12,14 @@ Analyze IPL match data to understand team performance and match outcomes.
 - Data cleaning and preprocessing
 - Team performance analysis
 - Toss impact analysis
-- Win type analysis (runs vs wickets)
+- Win type analysis
 - Player performance analysis
 
 ## Key Insights
-- [Write your top team here] has the highest number of wins
-- Toss-winning teams win approximately [your %] of matches
-- Most matches are won by [runs/wickets]
+- Mumbai Indians has the highest number of wins
+- Toss-winning teams win approximately XX% of matches
+- Most matches are won by wickets
 - Certain players consistently perform well
 
 ## Conclusion
-This project helps understand key factors affecting IPL match results using data analysis techniques.
+This project helps identify key factors affecting IPL match results.
