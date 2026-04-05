@@ -41,3 +41,4 @@ This chart highlights players with the highest number of Player of the Match awa
 
 ## Conclusion
 This project demonstrates how data analysis can be used to identify patterns in IPL matches and understand factors influencing match outcomes.
+Further improvements can include predictive modeling to forecast match outcomes.
